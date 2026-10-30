@@ -1,0 +1,9 @@
+emsEnv/
+__pycache__/
+*.pyc
+developpement.tex
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
